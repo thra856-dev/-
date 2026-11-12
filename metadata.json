@@ -1,0 +1,6 @@
+{
+  "name": "حساب الراتب والشفتات",
+  "description": "تطبيق متكامل لحساب الراتب الشهري وساعات العمل للشفتات الصباحية والمسائية والليلية مع احتساب إضافة ربع ساعة لكل ساعة عمل ليلي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
